@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone, I'm Aji Ngafifudin</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angafifudin&label=Profile%20views&color=191919&style=flat-square" alt="angafifudin" /> </p>
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=ANgafifudin&icon=1&color=12" alt="angafifudin" /> </p>
 🌱 I’m currently learning Next, React, and Tailwind<br>💬 Ask me about Front-end Web and Design Tools<br>⚡ Fun fact  I'm a Madridistas
 
 ## 🌐 Connect with Me:
@@ -17,8 +17,3 @@
 
 ### ✍️ Random Dev Quote
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/></p>
-
----
-[![](https://visitcount.itsvg.in/api?id=ANgafifudin&icon=1&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
