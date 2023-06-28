@@ -12,8 +12,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANgafifudin&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ANgafifudin&theme=city_light&hide_border=true"/></p>
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@AjiFudiiiiiin)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/></p>
